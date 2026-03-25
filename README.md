@@ -1,7 +1,9 @@
 Simple Cython Example  Tested on Python 3.13
 ________________________________________
 Step 1 — Install Requirements
+
 pip install cython
+
 pip install setuptools
 ________________________________________
 Step 2 — Create the Project Structure
