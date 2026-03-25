@@ -23,6 +23,7 @@ python main.py
 ________________________________________
 Expected Output
 ========================================
+ 
 CYTHON FUNCTION TESTS
 ========================================
 Hello Karen from Cython!
@@ -33,10 +34,11 @@ Sum 0 to 999 = 499500
 ========================================
 BENCHMARK: Cython vs Python
 ========================================
-Pure Python :  1.2400 seconds
-Cython      :  0.0850 seconds
-Speedup     :  14.6x faster
-Results match: True
+Pure Python : 0.2539 seconds
+Cython      : 0.0029 seconds
+Speedup     : 88.4x faster
+Results match: False
+
 ________________________________________
 What the Compile Step Produces
 cython-demo/
